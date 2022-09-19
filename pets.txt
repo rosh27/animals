@@ -2,3 +2,5 @@ blue
 black
 red
 pink
+scout
+rusty
