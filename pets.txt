@@ -4,3 +4,5 @@ red
 pink
 scout
 rusty
+monty
+mocha
